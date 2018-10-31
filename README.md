@@ -1,1 +1,3 @@
 # hactoberfestcollection
+
+life is beautiful
